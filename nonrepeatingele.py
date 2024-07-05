@@ -1,1 +1,0 @@
-strin=input(prompt('Enter A String'))
