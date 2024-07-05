@@ -1,0 +1,19 @@
+**Developed by Shubham Sahane**
+
+**Database Name: realestatephp**
+
+**Admin Login Details**
+Username: admin
+Password: admin
+
+**Agent Login Details**
+Username: agent
+Password: agent
+
+**user Login Details**
+Username: user
+Password: user
+
+**builder Login Details**
+Username: builder
+Password: builder
